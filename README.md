@@ -6,9 +6,9 @@ Users can drag predefined form elements from a tray and drop them into a fixed g
 
 ---
 
-## 📸 Preview
+## 📸 Demo Recording
 
-![screenshot](./screenshot.png)
+[▶️ Watch the walkthrough on Loom](https://www.loom.com/share/cf80944294d84e6ab9f6dedd98665932?sid=ae9d5529-f2e3-4bc0-8792-ad6a28149b2c)
 
 ---
 
@@ -64,5 +64,12 @@ Easy to use for 8-cell local state.
 1. Clone the repo
 
 ```bash
-git clone https://github.com/chriscebrero/form-builder.git
-cd form-builder
+git clone https://github.com/chriscebrero/feathery-form-builder.git
+cd feathery-form-builder
+# using yarn
+yarn
+yarn dev
+# or using npm
+npm install
+npm run dev
+
